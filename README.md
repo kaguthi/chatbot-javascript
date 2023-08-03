@@ -1,0 +1,1 @@
+This a chatbot developed using HTML, CSS, and JavaScript and the Hugging face API
